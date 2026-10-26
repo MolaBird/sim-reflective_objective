@@ -1,0 +1,6 @@
+zmxtools
+poppy
+ipykernel
+numpy
+matplotlib
+rayoptics

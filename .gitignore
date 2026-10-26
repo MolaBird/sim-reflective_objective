@@ -1,0 +1,4 @@
+*.zar
+.venv
+zmx_read_lens.log
+claude*

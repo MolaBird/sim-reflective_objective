@@ -1,0 +1,12 @@
+In this project, we want to study how a Schwarzschild type reflective objective focus a gaussian beam onto the focal plane. 
+Specifically, we look at Thorlabs LMM40X-P01 model (
+    https://www.thorlabs.com/reflective-microscope-objectives?pn=LMM40X-P01&tabName=Overview
+    https://www.thorlabs.com/item/LMM40X-P01
+), and look for the intensity/phase distributions of the spots of a HeNe laser and a 2923 nm laser with various beam diameter.
+Finally we want to know the optimal gaussion parameters to fit the spot
+
+"test.ipynb" has some preliminary results from poppy package, which is not necessarily correct.
+You should first figure out how the Schwarzschild design works, what is Thorlabs LMM40X-P01 model like, 
+and what the right way it is to simulate the beam propogation. And then write you own script. 
+
+
